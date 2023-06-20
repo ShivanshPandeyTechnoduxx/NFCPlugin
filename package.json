@@ -1,0 +1,25 @@
+{
+  "name": "info.androidabcd.plugins.custom",
+  "version": "1.0.0",
+  "description": "This is demo plugin for adding two numbers",
+  "cordova": {
+    "id": "info.androidabcd.plugins.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivanshPandeyTechnoduxx/NFCPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Shivansh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivanshPandeyTechnoduxx/NFCPlugin/issues"
+  },
+  "homepage": "https://github.com/ShivanshPandeyTechnoduxx/NFCPlugin#readme"
+}
